@@ -1,0 +1,2 @@
+# Applications_and_practice_in_NN_00
+신경망응용및실습00분반개인프로젝트과제
